@@ -7,6 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        heading: ["Urbanist", "sans-serif"],
+        body: ["Overpass", "sans-serif"],
+      },
+      colors: {
+        primary: "#D87385",
+        secondary: "#D88D73",
+        menuBackground: "#F7E3E7",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
@@ -14,5 +23,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("tailwindcss-animated")],
 };

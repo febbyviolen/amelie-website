@@ -1,0 +1,222 @@
+export const paketPreweddingPrice = [
+  {
+    title: "PAKET A",
+    price: "Rp845.000",
+    description: [
+      "Makeup + hairdo",
+      "Baju Bridal(kebaya, china, korea, jepang, dll)",
+      "Jas",
+      "4x foto",
+      "1x foto ukuran 16r + bingkai",
+      "3x pas foto",
+    ],
+  },
+  {
+    title: "PAKET B",
+    price: "Rp1.040.000",
+    description: [
+      "Makeup + hairdo",
+      "Baju Bridal(kebaya, china, korea, jepang, dll)",
+      "Jas",
+      "6x foto",
+      "1x foto ukuran 24r + bingkai",
+      "3x pas foto",
+    ],
+  },
+  {
+    title: "PAKET C",
+    price: "Rp2.600.000",
+    description: [
+      "Makeup + hairdo",
+      "Baju Bridal(kebaya, china, korea, jepang, dll)",
+      "Jas",
+      "10x foto",
+      "1x foto ukuran 24r + bingkai",
+      "3x pas foto",
+      "Album Kolase",
+    ],
+  },
+];
+
+export const paketPerjamPrice = [
+  {
+    title: "PAKET A",
+    price: "Rp1.250.000",
+    description: [
+      "Makeup + hairdo",
+      "Bebas ganti baju",
+      "Dapat semua softfile",
+      "10x edit foto tanpa cetak",
+      "Dapat 1x cetak ukuran 24R + bingkai",
+      "3x pas foto",
+    ],
+  },
+  {
+    title: "PAKET B",
+    price: "Rp1.500.000",
+    description: [
+      "Makeup + hairdo",
+      "Free 2 gaun + jas",
+      "Bebas ganti baju",
+      "Dapat semua soft-file",
+      "10x edit foto tanpa cetak",
+      "Dapat 1x cetak ukuran 24R + bingkai",
+      "3x pas foto",
+    ],
+  },
+];
+
+export const paketKeluargaPrice = [
+  {
+    title: "PAKET A",
+    price: "Rp475.000",
+    description: ["3x foto(cetak 3R)", "1x cetak ukuran 24R", "Tanpa bingkai"],
+  },
+  {
+    title: "PAKET B",
+    price: "Rp775.000",
+    description: ["5x foto (cetak 3R)", "1x cetak ukuran 24R + bingkai"],
+  },
+  {
+    title: "PAKET C",
+    price: "Rp1.275.000",
+    description: [
+      "6x foto (cetak 3R)",
+      "1x cetak ukuran 24R + bingkai + semi kanvas",
+    ],
+  },
+];
+
+export const fotoSatuanPrice = [
+  { title: "Pas foto", price: "Rp30.000" },
+  { title: "Pas foto gandeng", price: "Rp50.000" },
+  { title: "Foto closeup", price: "Rp50.000" },
+  { title: "Pas foto wisuda", price: "Rp30.000" },
+  { title: "Pas foto wisuda(sanggul)", price: "Rp50.000" },
+];
+
+export const cucicetakPrice = [
+  { title: "2x3/3x4/4x6", price: "Rp1.500" },
+  { title: "3R", price: "Rp2.000" },
+  { title: "4R", price: "Rp2.500" },
+  { title: "5R", price: "Rp6.000" },
+  { title: "10R", price: "Rp20.000" },
+  { title: "12R", price: "Rp25.000" },
+  { title: "16R", price: "Rp35.000" },
+  { title: "18R", price: "Rp40.000" },
+  { title: "20R", price: "Rp115.000" },
+  { title: "20RP", price: "Rp135.000" },
+  { title: "24R", price: "Rp130.000" },
+  { title: "24R Canvas", price: "Rp400.000" },
+  { title: "24RP", price: "Rp145.000" },
+  { title: "32R", price: "Rp200.000" },
+  { title: "32R Canvas", price: "Rp600.000" },
+  { title: "32RP", price: "Rp220.000" },
+];
+
+export const paketBridalPrice = [
+  {
+    title: "PAKET A",
+    price: "Rp14.600.000",
+    description: [
+      "Wedding dress + makeup + hair",
+      "Gaun pemberkatan/sangjit",
+      "Jas pengantin",
+      "Bunga tangan asli",
+      "Gaun penjeput + makeup",
+      "Jas orang tua(2 orang)",
+      "Makeup orang tua(2 orang)",
+      "Mobil pengantin",
+      "Kue pengantin",
+      "Foto Prewed indoor",
+      "Foto shooting",
+      "Nail art",
+      "Wadah hantaran 8pcs (akrilik)",
+    ],
+  },
+  {
+    title: "PAKET B",
+    price: "Rp18.300.000",
+    description: [
+      "Wedding dress + makeup + hair",
+      "Gaun pemberkatan/sangjit",
+      "Jas pengantin",
+      "Bunga tangan asli",
+      "Gaun pengapit + makeup",
+      "Jas orang tua(2 orang)",
+      "Gaun + Makeup orang tua(2 orang)",
+      "Mobil pengantin",
+      "Kue pengantin",
+      "Foto Prewed indoor",
+      "Foto shooting",
+      "Nail art",
+      "Wadah hantaran 8pcs (akrilik)",
+      "Foto shooting(Le Picture, Tonny Photography, Luxeria, Pluscstudio, Angel Photography, Rove Story(+1jt))",
+    ],
+  },
+  {
+    title: "PAKET C",
+    price: "Rp39.800.000",
+    description: [
+      "Wedding dress(baru) + makeup + hair",
+      "Gaun pemberkatan/sangjit",
+      "Jas pengantin(custom)",
+      "Bunga tangan asli",
+      "Gaun penjeput + makeup",
+      "Jas orang tua(2 orang)",
+      "Gaun + Makeup orang tua(2 orang)",
+      "Mobil pengantin + driver",
+      "Kue pengantin",
+      "Foto Prewed ",
+      "Foto shooting",
+      "Nail art",
+      "Wadah hantaran 12pcs (akrilik)",
+      "Foto shooting(Resolution, Whitebox Studio, Red Apple)",
+    ],
+  },
+  {
+    title: "PAKET D",
+    price: "Rp5.000.000",
+    description: [
+      "Wedding dress + makeup + hairdo",
+      "Jas pengantin",
+      "Bunga tangan asli",
+      "Gaun pengapit & makeup",
+      "Makeup mama (2 orang)",
+      "Jas orang tua(2 orang)",
+      "Hias bunga mobil pengatin",
+      "Bonus photo prawed: 8x foto, 1x foto ukuran 24R, pas foto",
+    ],
+  },
+  {
+    title: "PAKET E",
+    price: "Rp6.000.000",
+    description: [
+      "Wedding dress + makeup",
+      "Jas pengantin",
+      "Gaun pemberkatan/sangjit",
+      "Bunga tangan asli",
+      "Gaun pengapit & makeup",
+      "Makeup mama(2 orang)",
+      "Jas orang tua(2 orang)",
+      "Hias bunga mobil pengantin",
+      "Bonus photo prawed: 8x foto, 1x foto ukuran 24R, 3x pas foto",
+    ],
+  },
+  {
+    title: "PAKET F",
+    price: "Rp8.000.000",
+    description: [
+      "Wedding dress + makeup airbrush",
+      "Jas pengantin",
+      "Gaun pemberkatan/ sangjit",
+      "Bunga tangan asli",
+      "Gaun pengapit & makeup",
+      "Makeup mama",
+      "Jas orang tua(2 orang)",
+      "Hias bunga mobil pengantin",
+      "Wadah hantaran 8pcs (akrilik)",
+      "Bonus photo prawed: 8x foto, 1x foto ukuran 24R, 3x pas foto",
+    ],
+  },
+];
